@@ -2,8 +2,6 @@
 
 I am Sia, an up and coming data science analyst interested in bridging the cultural gap by assimilating more languages and dialects into the natural language processing pipeline. I also love to code anything, having built applications in Python, Java, and C# every so often for fun and an occassional group project.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on getting a job in Data Science so HOLLA!
 - 🌱 I’m currently learning how to apply statistics, calculus, and linear algebra to AI/ML
 - 👯 I’m looking to collaborate on developing modules/packages in Python, Java, and anything interesting where beginners are invited!
