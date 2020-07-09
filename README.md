@@ -9,7 +9,7 @@ I am Sia, an up and coming data science analyst interested in bridging the cultu
 - 💬 Ask me about: Java, Python, C#, any type of SQL, maybe some EViews, STATA, and HTML/CSS
 - 📫 How to reach me: [here! :blush:](mailto:siawayforward.projects@gmail.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Here's two :smirk: I follow the WNBA (Go Lynx! :blue_heart: :green_heart:)so no slander accepted here, and I'll volunteer information about it, unprompted :smile: :heart_eyes:, and I am a published writer and editor of creative works :newspaper: :books:
+- ⚡ Fun fact: Here's two :smirk: I follow the WNBA (Go Lynx! :blue_heart: :green_heart:) so no slander accepted here, and I'll volunteer information about it, unprompted :smile: :heart_eyes:, and I am a published writer and editor of creative works :newspaper: :books:
 
 <!--
 **siawayforward/siawayforward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
