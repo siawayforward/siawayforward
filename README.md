@@ -2,9 +2,6 @@
 
 I am Sia, an up and coming data science analyst interested in bridging the cultural gap by assimilating more languages and dialects into the natural language processing pipeline. I also love to code anything, having built applications in Python, Java, and C# every so often for fun and an occassional group project.
 
-<!--
-**siawayforward/siawayforward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on getting a job in Data Science so HOLLA!
@@ -15,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: siawayforward.projects@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I follow the WNBA so no slander accepted here, and I'll volunteer information about it, unprompted :)
--->
+
+<!--
+**siawayforward/siawayforward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
