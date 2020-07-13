@@ -1,4 +1,4 @@
-### Hi there, Sia here 👋
+![](https://github.com/siawayforward/siawayforward/blob/master/wewe.PNG)
 
 An aspiring data science analyst interested in bridging the cultural gap by assimilating more languages and dialects into the natural language processing pipeline. I also love to learn and code anything, having built applications in Python, Java, and C# every so often for fun and an occassional group project. Additionally, I have been published as a writer and editor of creative works :newspaper: :books:. 
 
@@ -6,8 +6,6 @@ Currently 🔭 **data science job hunting (so HOLLA!)** while learning and refre
 
 :smirk: Lastly, No WNBA slander accepted here, and I'll volunteer information about it, unprompted :smile: :heart_eyes:. 
 (Go Lynx! :blue_heart: :green_heart:) 
-
-![](https://github.com/siawayforward/siawayforward/blob/master/lynx%20logo.jpg)
 
 <!--
 **siawayforward/siawayforward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
