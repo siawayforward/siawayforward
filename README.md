@@ -7,7 +7,7 @@ Currently 🔭 **data science job hunting (so HOLLA!)** while learning and refre
 :smirk: Lastly, No WNBA slander accepted here, and I'll volunteer information about it, unprompted :smile: :heart_eyes:. 
 (Go Lynx! :blue_heart: :green_heart:) 
 
-![](/1200px-Minnesota_Lynx_logo.svg.png)
+![](/lynx%20logo.jpg)
 
 <!--
 **siawayforward/siawayforward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
