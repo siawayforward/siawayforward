@@ -1,6 +1,6 @@
 ![](https://github.com/siawayforward/siawayforward/blob/master/wewe.PNG)
 
-🔭 **data science and developer job hunting** and an aspiring machine learning engineer interested in bridging the cultural gap by assimilating more languages and dialects into the natural language processing pipeline. I also love to learn and code anything, having built applications in Python, Java, and C# (+ a lot of SQL) every so often for fun and an occassional group project. Additionally, I have been published as a writer and editor of creative works :newspaper: :books:. 
+🔭 **data and developer job hunting** and an aspiring machine learning engineer interested in bridging the cultural gap by assimilating more languages and dialects into the natural language processing pipeline. I also love to learn and code anything, having built applications in Python, Java, and C# (+ a lot of SQL) every so often for fun and an occassional group project. Additionally, I have been published as a writer and editor of creative works :newspaper: :books:. 
 
 Currently learning and refreshing my knowledge on how to apply statistics, calculus, and linear algebra to AI/ML. Would love to 👯 on developing modules/packages in Python, Java, and anything interesting where beginners are invited! If you'd like to connect and exchange ideas in life and data science, you can 📫 me [here! :blush:](mailto:siawayforward.projects@gmail.com). If you are hiring and would like to reach out, [this one](mailto:scmbatia@gmail.com) is for you!
 
